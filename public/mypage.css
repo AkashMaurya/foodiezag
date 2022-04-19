@@ -1,0 +1,8 @@
+@media screen and (max-width: 390px) {
+    .main {
+        font-size: 2rem;
+    }
+    .menus {
+        font-size: 1rem;
+    }
+}
